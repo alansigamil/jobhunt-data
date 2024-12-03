@@ -1,0 +1,273 @@
+{
+    "total": {
+        "value": 37
+    },
+    "hits": [
+        {
+            "id": "93887d645a1a5980641cb68336d0d46b",
+            "headline": "Systemadministrat\u00f6r inom Linux / UNIX",
+            "brief": "P\u00e5 uppdrag av en av v\u00e5ra kunder i Stockholm\u00a0s\u00f6ker vi\u00a0dig som vill arbeta\u00a0med systemadministration\u00a0inom Linux / UNIX\u00a0i n\u00e5gra av Sveriges st\u00f6rsta och mest intressanta Linuxmilj\u00f6er. F\u00f6retaget\u00a0har flera tj\u00e4nster att fylla och\u00a0kan se en plats f\u00f6r b\u00e5de dig som \u00e4r i b\u00f6rjan av din Linux/UNIX-karri\u00e4r och dig med l\u00e4ngre erfarenhet!Tj\u00e4nsten blir en direktrekrytering s\u00e5 anst\u00e4llningen blir direkt hos v\u00e5r kund.",
+            "occupation_group": {
+                "label": "N\u00e4tverks- och systemtekniker m.fl.",
+                "concept_id": "VCpu_5EN_bBt"
+            },
+            "occupation_field": {
+                "label": "Data/IT",
+                "concept_id": "apaJ_2ja_LuF"
+            },
+            "employer": {
+                "name": "Centric Professionals AB"
+            },
+            "workplace_addresses": [],
+            "publication_date": "2024-10-02T00:00:00",
+            "source_links": [
+                {
+                    "label": "arbetsformedlingen.se",
+                    "url": "https://arbetsformedlingen.se/platsbanken/annonser/29149047"
+                }
+            ]
+        },
+        {
+            "id": "23366e87a6ed04207533414e34661c30",
+            "headline": "Junior First Line Support till Netnod",
+            "brief": "\u00c4r du tekniskt intresserad och vill arbeta i Internets k\u00e4rna? Netnod s\u00f6ker nu en Junior First Line Support d\u00e4r du har chansen att vara med och bygga upp deras nya Supportfunktion och bidra till att s\u00e4kerst\u00e4lla en stabil och s\u00e4ker internetinfrastruktur och st\u00f6d till Netnods kunder.",
+            "occupation_group": {
+                "label": "Supporttekniker, IT",
+                "concept_id": "hmaC_cfi_UKg"
+            },
+            "occupation_field": {
+                "label": "Data/IT",
+                "concept_id": "apaJ_2ja_LuF"
+            },
+            "employer": {
+                "name": "Academic Work Sweden AB"
+            },
+            "workplace_addresses": [],
+            "publication_date": "2024-11-23T00:00:00",
+            "source_links": [
+                {
+                    "label": "arbetsformedlingen.se",
+                    "url": "https://arbetsformedlingen.se/platsbanken/annonser/29275461"
+                }
+            ]
+        },
+        {
+            "id": "a9e8a8b26f0b155b1c927e997b663de9",
+            "headline": "System Engineer till globalt elektronikbolag!",
+            "brief": "T\u00e4nk dig de mest h\u00f6gteknologiska elektronikprodukterna du kan f\u00f6rest\u00e4lla dig, och sen t\u00e4nker du ett steg l\u00e4ngre. Med v\u00e4rldsledande produktionsl\u00f6sningar leder de elektronikindustrin och skapar dagens mest h\u00f6gteknologiska produkter, men med en \u00f6dmjukhet inf\u00f6r att det viktigaste f\u00f6r att lyckas med detta \u00e4r en passion f\u00f6r s\u00e5v\u00e4l aff\u00e4rer som teknik och framf\u00f6rallt m\u00e4nniskor.",
+            "occupation_group": {
+                "label": "\u00d6vriga civilingenj\u00f6rsyrken",
+                "concept_id": "mp2Y_vyC_RFV"
+            },
+            "occupation_field": {
+                "label": "Yrken med teknisk inriktning",
+                "concept_id": "6Hq3_tKo_V57"
+            },
+            "employer": {
+                "name": "Academic Work"
+            },
+            "workplace_addresses": [],
+            "publication_date": "2024-11-21T01:09:27",
+            "source_links": [
+                {
+                    "label": "ingenjorsjobb.se.xmlfeed",
+                    "url": "https://ingenjorsjobb.se/lediga-jobb/system-engineer-till-globalt-elektronikbolag/309290"
+                }
+            ]
+        },
+        {
+            "id": "adf0815a2449d3e325eebcd5169c0056",
+            "headline": "Machine Learning Engineer",
+            "brief": "We now have a new requirement and are looking for a consultant colleague with the qualifications listed below. The position is part of our consulting business, which means you will be employed by us and work either with clients or on internal projects and assignments.",
+            "occupation_group": {
+                "label": "Mjukvaru- och systemutvecklare m.fl.",
+                "concept_id": "DJh5_yyF_hEM"
+            },
+            "occupation_field": {
+                "label": "Data/IT",
+                "concept_id": "apaJ_2ja_LuF"
+            },
+            "employer": {
+                "name": "Deploja AB"
+            },
+            "workplace_addresses": [],
+            "publication_date": "2024-11-21T00:00:00",
+            "source_links": [
+                {
+                    "label": "arbetsformedlingen.se",
+                    "url": "https://arbetsformedlingen.se/platsbanken/annonser/29269790"
+                },
+                {
+                    "label": "arbetsformedlingen.se",
+                    "url": "https://arbetsformedlingen.se/platsbanken/annonser/29267909"
+                }
+            ]
+        },
+        {
+            "id": "7719f7b34c8107a32118feb76858afa2",
+            "headline": "Machine Learning Engineer",
+            "brief": "We are looking for Machine Learning Engineer for a global company in Stockholm with hybrid (50% remote) working conditions. Requirements:1.",
+            "occupation_group": {
+                "label": "Mjukvaru- och systemutvecklare m.fl.",
+                "concept_id": "DJh5_yyF_hEM"
+            },
+            "occupation_field": {
+                "label": "Data/IT",
+                "concept_id": "apaJ_2ja_LuF"
+            },
+            "employer": {
+                "name": "Incluso AB"
+            },
+            "workplace_addresses": [
+                {
+                    "municipality_concept_id": "AvNB_uwa_6n6",
+                    "municipality": "Stockholm",
+                    "region_concept_id": "CifL_Rzy_Mku",
+                    "region": "Stockholms l\u00e4n",
+                    "country_concept_id": "i46j_HmG_v64",
+                    "country": "Sverige"
+                }
+            ],
+            "publication_date": "2024-11-21T00:00:00",
+            "source_links": [
+                {
+                    "label": "arbetsformedlingen.se",
+                    "url": "https://arbetsformedlingen.se/platsbanken/annonser/29270072"
+                }
+            ]
+        },
+        {
+            "id": "241c3f8992db7cfb4ed1fc7a8ba1c3ac",
+            "headline": "System Engineer till globalt elektronikbolag!",
+            "brief": "T\u00e4nk dig de mest h\u00f6gteknologiska elektronikprodukterna du kan f\u00f6rest\u00e4lla dig, och sen t\u00e4nker du ett steg l\u00e4ngre. Med v\u00e4rldsledande produktionsl\u00f6sningar leder de elektronikindustrin och skapar dagens mest h\u00f6gteknologiska produkter, men med en \u00f6dmjukhet inf\u00f6r att det viktigaste f\u00f6r att lyckas med detta \u00e4r en passion f\u00f6r s\u00e5v\u00e4l aff\u00e4rer som teknik och framf\u00f6rallt m\u00e4nniskor.",
+            "occupation_group": {
+                "label": "Mjukvaru- och systemutvecklare m.fl.",
+                "concept_id": "DJh5_yyF_hEM"
+            },
+            "occupation_field": {
+                "label": "Data/IT",
+                "concept_id": "apaJ_2ja_LuF"
+            },
+            "employer": {
+                "name": "Academic Work Sweden AB"
+            },
+            "workplace_addresses": [],
+            "publication_date": "2024-11-21T00:00:00",
+            "source_links": [
+                {
+                    "label": "arbetsformedlingen.se",
+                    "url": "https://arbetsformedlingen.se/platsbanken/annonser/29268887"
+                }
+            ]
+        },
+        {
+            "id": "fbf48d05c4a1bbd20bc9aa049d06d0a0",
+            "headline": "Machine Learning Engineer",
+            "brief": "We now have a new requirement and are looking for a consultant colleague with the qualifications listed below. The position is part of our consulting business, which means you will be employed by us and work either with clients or on internal projects and assignments.",
+            "occupation_group": {
+                "label": "Mjukvaru- och systemutvecklare m.fl.",
+                "concept_id": "DJh5_yyF_hEM"
+            },
+            "occupation_field": {
+                "label": "Data/IT",
+                "concept_id": "apaJ_2ja_LuF"
+            },
+            "employer": {
+                "name": "Deploja AB"
+            },
+            "workplace_addresses": [],
+            "publication_date": "2024-11-20T00:00:00",
+            "source_links": [
+                {
+                    "label": "arbetsformedlingen.se",
+                    "url": "https://arbetsformedlingen.se/platsbanken/annonser/29267909"
+                },
+                {
+                    "label": "arbetsformedlingen.se",
+                    "url": "https://arbetsformedlingen.se/platsbanken/annonser/29269790"
+                }
+            ]
+        },
+        {
+            "id": "9ff72f4062b51597cf568d0a669a1bb7",
+            "headline": "Senior Back-end Software Developer",
+            "brief": "At Arkus AI, a pioneering startup based in Stockholm, we are at the forefront of harnessing artificial intelligence to revolutionize precision medicine. Our mission is to save lives and empower healthcare advancements by developing cutting-edge AI solutions to improve diagnosis, treatment, and patient outcomes.",
+            "occupation_group": {
+                "label": "Mjukvaru- och systemutvecklare m.fl.",
+                "concept_id": "DJh5_yyF_hEM"
+            },
+            "occupation_field": {
+                "label": "Data/IT",
+                "concept_id": "apaJ_2ja_LuF"
+            },
+            "employer": {
+                "name": "Arkus AI AB"
+            },
+            "workplace_addresses": [
+                {
+                    "municipality_concept_id": "AvNB_uwa_6n6",
+                    "municipality": "Stockholm",
+                    "region_concept_id": "CifL_Rzy_Mku",
+                    "region": "Stockholms l\u00e4n",
+                    "country_concept_id": "i46j_HmG_v64",
+                    "country": "Sverige"
+                }
+            ],
+            "publication_date": "2024-11-18T00:00:00",
+            "source_links": [
+                {
+                    "label": "arbetsformedlingen.se",
+                    "url": "https://arbetsformedlingen.se/platsbanken/annonser/29259873"
+                }
+            ]
+        },
+        {
+            "id": "28988133c0ee72deb2674fd86655676b",
+            "headline": "IT-specialist inom Linux",
+            "brief": "\u00c4r du IT-Specialist inom Linux och vill anta utmaningen att utveckla och optimera system som \u00e4r viktiga f\u00f6r bevarandet av Sveriges digitala kulturarv? Har du erfarenhet av komplexa IT-infrastrukturer?",
+            "occupation_group": {
+                "label": "Drifttekniker, IT",
+                "concept_id": "13md_uyV_BNG"
+            },
+            "occupation_field": {
+                "label": "Data/IT",
+                "concept_id": "apaJ_2ja_LuF"
+            },
+            "employer": {
+                "name": "Kungliga Biblioteket"
+            },
+            "workplace_addresses": [],
+            "publication_date": "2024-11-15T00:00:00",
+            "source_links": [
+                {
+                    "label": "arbetsformedlingen.se",
+                    "url": "https://arbetsformedlingen.se/platsbanken/annonser/29257731"
+                }
+            ]
+        },
+        {
+            "id": "456ef8a2cfbcbcccd1fae5e63ca60c99",
+            "headline": "Information Security Support",
+            "brief": "Verisure is a leading global provider of professionally monitored security solutions. We are an international company with a start-up mindset.",
+            "occupation_group": {
+                "label": "IT-s\u00e4kerhetsspecialister",
+                "concept_id": "BAeH_eg8_T2d"
+            },
+            "occupation_field": {
+                "label": "Data/IT",
+                "concept_id": "apaJ_2ja_LuF"
+            },
+            "employer": {
+                "name": "Verisure Sverige AB"
+            },
+            "workplace_addresses": [],
+            "publication_date": "2024-11-13T00:00:00",
+            "source_links": [
+                {
+                    "label": "arbetsformedlingen.se",
+                    "url": "https://arbetsformedlingen.se/platsbanken/annonser/29250248"
+                }
+            ]
+        }
+    ]
+}

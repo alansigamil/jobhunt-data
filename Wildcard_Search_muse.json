@@ -1,0 +1,309 @@
+{
+    "total": {
+        "value": 15
+    },
+    "hits": [
+        {
+            "id": "2d370cc6cacf2c89142ad8d9d7e72e6f",
+            "headline": "Museiv\u00e4rd till Vrak \u2013 Museum of Wrecks, Stockholm",
+            "brief": "Utm\u00e4rkelsen \u201dSveriges modernaste myndighet 2023\u201d vann Statens maritima och transporthistoriska museer (SMTM). Myndigheten driver och utvecklar Marinmuseum, Sj\u00f6historiska museet, Vasamuseet, Vrak-Museum of Wrecks samt J\u00e4rnv\u00e4gsmuseet.",
+            "occupation_group": {
+                "label": "Guider och reseledare",
+                "concept_id": "A6X3_efC_VNy"
+            },
+            "occupation_field": {
+                "label": "F\u00f6rs\u00e4ljning, ink\u00f6p, marknadsf\u00f6ring",
+                "concept_id": "RPTn_bxG_ExZ"
+            },
+            "employer": {
+                "name": "Statens Maritima och Transporthistoriska Museer"
+            },
+            "workplace_addresses": [
+                {
+                    "municipality_concept_id": "AvNB_uwa_6n6",
+                    "municipality": "Stockholm",
+                    "region_concept_id": "CifL_Rzy_Mku",
+                    "region": "Stockholms l\u00e4n",
+                    "country_concept_id": "i46j_HmG_v64",
+                    "country": "Sverige"
+                }
+            ],
+            "publication_date": "2024-11-19T00:00:00",
+            "source_links": [
+                {
+                    "label": "arbetsformedlingen.se",
+                    "url": "https://arbetsformedlingen.se/platsbanken/annonser/29263235"
+                }
+            ]
+        },
+        {
+            "id": "2b035845f1b6bbdc08f8c81a5f2ef8c6",
+            "headline": "Museiv\u00e4rdar behovsanst\u00e4llning till Vrak \u2013 Museum of Wrecks, Stockholm",
+            "brief": "Utm\u00e4rkelsen \u201dSveriges modernaste myndighet 2023\u201d vann Statens maritima och transporthistoriska museer (SMTM). Myndigheten driver och utvecklar Marinmuseum, Sj\u00f6historiska museet, Vasamuseet, Vrak-Museum of Wrecks samt J\u00e4rnv\u00e4gsmuseet.",
+            "occupation_group": {
+                "label": "Guider och reseledare",
+                "concept_id": "A6X3_efC_VNy"
+            },
+            "occupation_field": {
+                "label": "F\u00f6rs\u00e4ljning, ink\u00f6p, marknadsf\u00f6ring",
+                "concept_id": "RPTn_bxG_ExZ"
+            },
+            "employer": {
+                "name": "Statens Maritima och Transporthistoriska Museer"
+            },
+            "workplace_addresses": [
+                {
+                    "municipality_concept_id": "AvNB_uwa_6n6",
+                    "municipality": "Stockholm",
+                    "region_concept_id": "CifL_Rzy_Mku",
+                    "region": "Stockholms l\u00e4n",
+                    "country_concept_id": "i46j_HmG_v64",
+                    "country": "Sverige"
+                }
+            ],
+            "publication_date": "2024-11-19T00:00:00",
+            "source_links": [
+                {
+                    "label": "arbetsformedlingen.se",
+                    "url": "https://arbetsformedlingen.se/platsbanken/annonser/29263233"
+                }
+            ]
+        },
+        {
+            "id": "344b8366b0281047582db450fbb173bf",
+            "headline": "Vikariat som Museiv\u00e4rd till Vrak \u2013 Museum of Wrecks, Stockholm",
+            "brief": "Utm\u00e4rkelsen \u201dSveriges modernaste myndighet 2023\u201d vann Statens maritima och transporthistoriska museer (SMTM). Myndigheten driver och utvecklar Marinmuseum, Sj\u00f6historiska museet, Vasamuseet, Vrak-Museum of Wrecks samt J\u00e4rnv\u00e4gsmuseet.",
+            "occupation_group": {
+                "label": "Museiintendenter m.fl.",
+                "concept_id": "Qbvf_6nd_Esn"
+            },
+            "occupation_field": {
+                "label": "Kultur, media, design",
+                "concept_id": "9puE_nYg_crq"
+            },
+            "employer": {
+                "name": "Statens Maritima och Transporthistoriska Museer"
+            },
+            "workplace_addresses": [
+                {
+                    "municipality_concept_id": "AvNB_uwa_6n6",
+                    "municipality": "Stockholm",
+                    "region_concept_id": "CifL_Rzy_Mku",
+                    "region": "Stockholms l\u00e4n",
+                    "country_concept_id": "i46j_HmG_v64",
+                    "country": "Sverige"
+                }
+            ],
+            "publication_date": "2024-11-19T00:00:00",
+            "source_links": [
+                {
+                    "label": "arbetsformedlingen.se",
+                    "url": "https://arbetsformedlingen.se/platsbanken/annonser/29263254"
+                }
+            ]
+        },
+        {
+            "id": "38dfa4d09eabdd22004c13ffc345bc52",
+            "headline": "Museumv\u00e4rd p\u00e5 Framtidsmuseet",
+            "brief": "Hej!Vi s\u00f6ker just nu glada och serviceorienterade personer som vill arbeta p\u00e5 Framtidsmuseet. Museet har fokus p\u00e5 ny teknik, s\u00e5 som Virtual Reality och Mixed Reality.",
+            "occupation_group": {
+                "label": "Restaurang- och k\u00f6ksbitr\u00e4den m.fl.",
+                "concept_id": "tPox_ie4_X9X"
+            },
+            "occupation_field": {
+                "label": "Hotell, restaurang, storhush\u00e5ll",
+                "concept_id": "ScKy_FHB_7wT"
+            },
+            "employer": {
+                "name": "Stockholm VR Center AB"
+            },
+            "workplace_addresses": [],
+            "publication_date": "2024-11-10T00:00:00",
+            "source_links": [
+                {
+                    "label": "arbetsformedlingen.se",
+                    "url": "https://arbetsformedlingen.se/platsbanken/annonser/29242583"
+                }
+            ]
+        },
+        {
+            "id": "d47f3bc3887a75ba8953ec5388bfd70d",
+            "headline": "Museiv\u00e4rd, vikariat 80%",
+            "brief": "Vill du arbeta p\u00e5 en myndighet som har v\u00e4rlden som sitt arbetsf\u00e4lt? Statens museer f\u00f6r v\u00e4rldskultur best\u00e5r av Etnografiska museet, \u00d6stasiatiska museet och Medelhavsmuseet i Stockholm samt V\u00e4rldskulturmuseet i G\u00f6teborg.",
+            "occupation_group": {
+                "label": "Arkiv- och biblioteksassistenter m.fl.",
+                "concept_id": "TQkt_eeK_eNp"
+            },
+            "occupation_field": {
+                "label": "Administration, ekonomi, juridik",
+                "concept_id": "X82t_awd_Qyc"
+            },
+            "employer": {
+                "name": "Statens Museer F\u00f6r V\u00e4rldskultur"
+            },
+            "workplace_addresses": [
+                {
+                    "municipality_concept_id": "AvNB_uwa_6n6",
+                    "municipality": "Stockholm",
+                    "region_concept_id": "CifL_Rzy_Mku",
+                    "region": "Stockholms l\u00e4n",
+                    "country_concept_id": "i46j_HmG_v64",
+                    "country": "Sverige"
+                }
+            ],
+            "publication_date": "2024-11-19T00:00:00",
+            "source_links": [
+                {
+                    "label": "arbetsformedlingen.se",
+                    "url": "https://arbetsformedlingen.se/platsbanken/annonser/29265120"
+                },
+                {
+                    "label": "offentligajobb.se",
+                    "url": "https://www.offentligajobb.se/jobad/museiv%C3%A4rd-vikariat-80_stockholm-stockholms-l%C3%A4n-sverige_56fe805b-6e9c-42b5-baf7-791dec0e2d67"
+                }
+            ]
+        },
+        {
+            "id": "4239247e9485340d635f558f2bf1b9fe",
+            "headline": "Museiv\u00e4rd, vikariat 80%",
+            "brief": "Om arbetsplatsenVill du arbeta p\u00e5 en myndighet som har v\u00e4rlden som sitt arbetsf\u00e4lt? Statens museer f\u00f6r v\u00e4rldskultur best\u00e5r av Etnografiska museet, \u00d6stasiatiska museet och Medelhavsmuseet i Stockholm samt V\u00e4rldskulturmuseet i G\u00f6teborg.",
+            "occupation_group": {
+                "label": "Arkiv- och biblioteksassistenter m.fl.",
+                "concept_id": "TQkt_eeK_eNp"
+            },
+            "occupation_field": {
+                "label": "Administration, ekonomi, juridik",
+                "concept_id": "X82t_awd_Qyc"
+            },
+            "employer": {
+                "name": "Statens museer f\u00f6r v\u00e4rldskultur"
+            },
+            "workplace_addresses": [
+                {
+                    "municipality_concept_id": "AvNB_uwa_6n6",
+                    "municipality": "Stockholm",
+                    "region_concept_id": "CifL_Rzy_Mku",
+                    "region": "Stockholms l\u00e4n",
+                    "country_concept_id": "i46j_HmG_v64",
+                    "country": "Sverige"
+                }
+            ],
+            "publication_date": "2024-11-19T00:00:00",
+            "source_links": [
+                {
+                    "label": "offentligajobb.se",
+                    "url": "https://www.offentligajobb.se/jobad/museiv%C3%A4rd-vikariat-80_stockholm-stockholms-l%C3%A4n-sverige_56fe805b-6e9c-42b5-baf7-791dec0e2d67"
+                },
+                {
+                    "label": "arbetsformedlingen.se",
+                    "url": "https://arbetsformedlingen.se/platsbanken/annonser/29265120"
+                }
+            ]
+        },
+        {
+            "id": "3587517e005e2423cd1490e8c539031a",
+            "headline": "Utredningsledare f\u00f6r museisamlingar",
+            "brief": "V\u00e4lkommen till Lidk\u00f6ping! Du letar efter nya utmaningar.",
+            "occupation_group": {
+                "label": "Museiintendenter m.fl.",
+                "concept_id": "Qbvf_6nd_Esn"
+            },
+            "occupation_field": {
+                "label": "Kultur, media, design",
+                "concept_id": "9puE_nYg_crq"
+            },
+            "employer": {
+                "name": "Lidk\u00f6pings kommun"
+            },
+            "workplace_addresses": [],
+            "publication_date": "2024-11-14T00:00:00",
+            "source_links": [
+                {
+                    "label": "arbetsformedlingen.se",
+                    "url": "https://arbetsformedlingen.se/platsbanken/annonser/29252941"
+                }
+            ]
+        },
+        {
+            "id": "eb2abd66c74ff8b9897b2548cf1f1071",
+            "headline": "Explainer p\u00e5 Tekniska Museet",
+            "brief": "Vill du inspirera genom lustfyllt l\u00e4rande?P\u00e5 Tekniska Museet s\u00f6ker vi st\u00e4ndigt nya kollegor som delar v\u00e5r passion f\u00f6r att ber\u00e4tta om STEAM, demonstrera roliga experiment och skapa minnesv\u00e4rda upplevelser f\u00f6r v\u00e5ra bes\u00f6kare. Som Explainer f\u00e5r du chansen att g\u00f6ra skillnad genom att l\u00e4ra ut teknik och naturvetenskap p\u00e5 ett underh\u00e5llande och vetenskapligt s\u00e4tt.",
+            "occupation_group": {
+                "label": "Guider och reseledare",
+                "concept_id": "A6X3_efC_VNy"
+            },
+            "occupation_field": {
+                "label": "F\u00f6rs\u00e4ljning, ink\u00f6p, marknadsf\u00f6ring",
+                "concept_id": "RPTn_bxG_ExZ"
+            },
+            "employer": {
+                "name": "Stiftelsen Tekniska Museet"
+            },
+            "workplace_addresses": [],
+            "publication_date": "2024-10-21T00:00:00",
+            "source_links": [
+                {
+                    "label": "arbetsformedlingen.se",
+                    "url": "https://arbetsformedlingen.se/platsbanken/annonser/29194942"
+                }
+            ]
+        },
+        {
+            "id": "cedb44dc3b0ac3630661b9445c3050a9",
+            "headline": "Museichef f\u00f6r M\u00f6lndals stadsmuseum",
+            "brief": "I M\u00f6lndals stad \u00e4r vi stolta \u00f6ver att ha Sveriges viktigaste jobb d\u00e4r vi tillsammans skapar b\u00e4sta m\u00f6jliga vardag f\u00f6r v\u00e5ra medborgare. Med kunskap, mod och kreativitet utvecklar vi v\u00e5ra verksamheter och bidrar till att M\u00f6lndal blir en \u00e4nnu b\u00e4ttre plats att leva och jobba i.",
+            "occupation_group": {
+                "label": "F\u00f6rvaltnings- och planeringschefer",
+                "concept_id": "X1Ac_Y9P_PJo"
+            },
+            "occupation_field": {
+                "label": "Chefer och verksamhetsledare",
+                "concept_id": "bh3H_Y3h_5eD"
+            },
+            "employer": {
+                "name": "M\u00f6lndals kommun"
+            },
+            "workplace_addresses": [],
+            "publication_date": "2024-11-05T00:00:00",
+            "source_links": [
+                {
+                    "label": "arbetsformedlingen.se",
+                    "url": "https://arbetsformedlingen.se/platsbanken/annonser/29231891"
+                }
+            ]
+        },
+        {
+            "id": "aa27b776673a1e21c976cd16e0f24e99",
+            "headline": "Museichef f\u00f6r M\u00f6lndals stadsmuseum",
+            "brief": "Om arbetsplatsenI M\u00f6lndals stad \u00e4r vi stolta \u00f6ver att ha Sveriges viktigaste jobb d\u00e4r vi tillsammans skapar b\u00e4sta m\u00f6jliga vardag f\u00f6r v\u00e5ra medborgare. Med kunskap, mod och kreativitet utvecklar vi v\u00e5ra verksamheter och bidrar till att M\u00f6lndal blir en \u00e4nnu b\u00e4ttre plats att leva och jobba i.",
+            "occupation_group": {
+                "label": "F\u00f6rvaltnings- och planeringschefer",
+                "concept_id": "X1Ac_Y9P_PJo"
+            },
+            "occupation_field": {
+                "label": "Chefer och verksamhetsledare",
+                "concept_id": "bh3H_Y3h_5eD"
+            },
+            "employer": {
+                "name": "M\u00f6lndals stad, Kultur- och fritidsf\u00f6rvaltningen"
+            },
+            "workplace_addresses": [
+                {
+                    "municipality_concept_id": "mc45_ki9_Bv3",
+                    "municipality": "M\u00f6lndal",
+                    "region_concept_id": "zdoY_6u5_Krt",
+                    "region": "V\u00e4stra G\u00f6talands l\u00e4n",
+                    "country_concept_id": "i46j_HmG_v64",
+                    "country": "Sverige"
+                }
+            ],
+            "publication_date": "2024-11-05T00:00:00",
+            "source_links": [
+                {
+                    "label": "offentligajobb.se",
+                    "url": "https://www.offentligajobb.se/jobad/museichef-f%C3%B6r-m%C3%B6lndals-stadsmuseum_m%C3%B6lndal-v%C3%A4stra-g%C3%B6talands-l%C3%A4n-sverige_79afe711-0dfb-40f0-9437-63577fadb1bc"
+                }
+            ]
+        }
+    ]
+}

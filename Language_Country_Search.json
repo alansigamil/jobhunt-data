@@ -1,0 +1,377 @@
+{
+    "total": {
+        "value": 356
+    },
+    "hits": [
+        {
+            "id": "f11d74c92cdad68e6cc4b83a4bf0e044",
+            "headline": "Fondadministrat\u00f6rer till Swedbank",
+            "brief": "F\u00f6r en av Sveriges st\u00f6rsta banker och mest attraktiva arbetsgivare s\u00f6ker vi nu tv\u00e5 stycken konsulter f\u00f6r rollen som fondadministrat\u00f6r. Vi s\u00f6ker dig med examen inom ekonomi samt goda kommunikationsf\u00e4rdigheter i b\u00e5de svenska och engelska.",
+            "occupation_group": {
+                "label": "Backofficepersonal m.fl.",
+                "concept_id": "MGk3_LvL_AU2"
+            },
+            "occupation_field": {
+                "label": "Administration, ekonomi, juridik",
+                "concept_id": "X82t_awd_Qyc"
+            },
+            "employer": {
+                "name": "Academic Work Sweden AB"
+            },
+            "workplace_addresses": [
+                {
+                    "municipality_concept_id": "",
+                    "municipality": "",
+                    "region_concept_id": "",
+                    "region": "",
+                    "country_concept_id": "37nR_YtF_158",
+                    "country": "Litauen"
+                },
+                {
+                    "municipality_concept_id": "UTJZ_zHH_mJm",
+                    "municipality": "Sundbyberg",
+                    "region_concept_id": "CifL_Rzy_Mku",
+                    "region": "Stockholms l\u00e4n",
+                    "country_concept_id": "i46j_HmG_v64",
+                    "country": "Sverige"
+                }
+            ],
+            "publication_date": "2024-11-23T00:00:00",
+            "source_links": [
+                {
+                    "label": "arbetsformedlingen.se",
+                    "url": "https://arbetsformedlingen.se/platsbanken/annonser/29275468"
+                }
+            ]
+        },
+        {
+            "id": "9b1eb0579201144e13a1e7d6a0608989",
+            "headline": "Byt regn mot sol \u2013 Bli online croupier p\u00e5 magiska Malta!",
+            "brief": "Malta v\u00e4ntar p\u00e5 dig! Njut av en solig vardag p\u00e5 en \u00f6 full av historia och charm samtidigt som du jobbar f\u00f6r ett marknadsledande onlinekasino.",
+            "occupation_group": {
+                "label": "Croupierer och oddss\u00e4ttare m.fl.",
+                "concept_id": "YHwG_fk2_MDL"
+            },
+            "occupation_field": {
+                "label": "Hotell, restaurang, storhush\u00e5ll",
+                "concept_id": "ScKy_FHB_7wT"
+            },
+            "employer": {
+                "name": "Jobs Europe AB"
+            },
+            "workplace_addresses": [
+                {
+                    "municipality_concept_id": "",
+                    "municipality": "",
+                    "region_concept_id": "",
+                    "region": "",
+                    "country_concept_id": "u8qF_qpq_R5W",
+                    "country": "Malta"
+                }
+            ],
+            "publication_date": "2024-11-22T00:00:00",
+            "source_links": [
+                {
+                    "label": "arbetsformedlingen.se",
+                    "url": "https://arbetsformedlingen.se/platsbanken/annonser/29272726"
+                }
+            ]
+        },
+        {
+            "id": "ca593f2b8d9aa602b0254b85535f6365",
+            "headline": "Controller",
+            "brief": "Arbetsbeskrivning\u00c4r du redo att ta ditt n\u00e4sta steg som Financial Controller i en dynamisk, internationell milj\u00f6? SSI Schaefer, en global ledare inom logistikl\u00f6sningar, s\u00f6ker en driven och strategisk Financial Controller f\u00f6r att st\u00e4rka deras team i Sverige och Finland.",
+            "occupation_group": {
+                "label": "Controller",
+                "concept_id": "Uw4n_UB2_RCW"
+            },
+            "occupation_field": {
+                "label": "Administration, ekonomi, juridik",
+                "concept_id": "X82t_awd_Qyc"
+            },
+            "employer": {
+                "name": "Randstad AB"
+            },
+            "workplace_addresses": [
+                {
+                    "municipality_concept_id": "",
+                    "municipality": "",
+                    "region_concept_id": "",
+                    "region": "",
+                    "country_concept_id": "WgbG_whJ_E7J",
+                    "country": "Finland"
+                },
+                {
+                    "municipality_concept_id": "",
+                    "municipality": "",
+                    "region_concept_id": "",
+                    "region": "",
+                    "country_concept_id": "i46j_HmG_v64",
+                    "country": "Sverige"
+                }
+            ],
+            "publication_date": "2024-11-22T00:00:00",
+            "source_links": [
+                {
+                    "label": "arbetsformedlingen.se",
+                    "url": "https://arbetsformedlingen.se/platsbanken/annonser/29274873"
+                }
+            ]
+        },
+        {
+            "id": "f552d24884c5fe687134a4ece9179e15",
+            "headline": "Din chans att bo och jobba p\u00e5 Malta \u2013 Svensktalande croupierer s\u00f6kes!",
+            "brief": "Byt m\u00f6rka vinterdagar mot solsken och en sp\u00e4nnande karri\u00e4r som online croupier p\u00e5 Malta!Vad jobbet inneb\u00e4r:Du blir ansiktet ut\u00e5t f\u00f6r ett marknadsledande onlinekasino. Dina uppgifter:Guida spelare genom lives\u00e4nda spel och s\u00e4kerst\u00e4lla smidiga procedurer.",
+            "occupation_group": {
+                "label": "Reses\u00e4ljare och trafikassistenter m.fl.",
+                "concept_id": "fdLf_oPp_wVw"
+            },
+            "occupation_field": {
+                "label": "F\u00f6rs\u00e4ljning, ink\u00f6p, marknadsf\u00f6ring",
+                "concept_id": "RPTn_bxG_ExZ"
+            },
+            "employer": {
+                "name": "Jobs Europe AB"
+            },
+            "workplace_addresses": [
+                {
+                    "municipality_concept_id": "",
+                    "municipality": "",
+                    "region_concept_id": "",
+                    "region": "",
+                    "country_concept_id": "u8qF_qpq_R5W",
+                    "country": "Malta"
+                }
+            ],
+            "publication_date": "2024-11-22T00:00:00",
+            "source_links": [
+                {
+                    "label": "arbetsformedlingen.se",
+                    "url": "https://arbetsformedlingen.se/platsbanken/annonser/29272724"
+                }
+            ]
+        },
+        {
+            "id": "8b0c43f42a20006b36b3aff5ee1447d3",
+            "headline": "Extrajobb Statister/Sk\u00e5despelare - Kvinna s\u00f6kes till annorlunda reklamfilm",
+            "brief": "Vi s\u00f6ker just nu personer som kan spela i en kortare film f\u00f6r A-kassan CA i Danmark. Du kommer att spela en kvinna som st\u00e5r och dagdr\u00f6mmer i rulltrappan p\u00e5 v\u00e4g till jobbet.",
+            "occupation_group": {
+                "label": "Sk\u00e5despelare",
+                "concept_id": "iBUL_s38_izZ"
+            },
+            "occupation_field": {
+                "label": "Kultur, media, design",
+                "concept_id": "9puE_nYg_crq"
+            },
+            "employer": {
+                "name": "Statist.se"
+            },
+            "workplace_addresses": [
+                {
+                    "municipality_concept_id": "",
+                    "municipality": "",
+                    "region_concept_id": "",
+                    "region": "",
+                    "country_concept_id": "Co3h_1xq_Cwb",
+                    "country": "Danmark"
+                },
+                {
+                    "municipality_concept_id": "oYPt_yRA_Smm",
+                    "municipality": "Malm\u00f6",
+                    "region_concept_id": "CaRE_1nn_cSU",
+                    "region": "Sk\u00e5ne l\u00e4n",
+                    "country_concept_id": "i46j_HmG_v64",
+                    "country": "Sverige"
+                }
+            ],
+            "publication_date": "2024-11-22T00:00:00",
+            "source_links": [
+                {
+                    "label": "ledigajobb.se",
+                    "url": "https://ledigajobb.se/jobb/bc69dc/extrajobb-statister-sk%C3%A5despelare-kvinna-s%C3%B6kes-till-annorlunda-reklamfilm"
+                }
+            ]
+        },
+        {
+            "id": "bd2b8805b91fa154888fc18c8c1a65cd",
+            "headline": "Extrajobb Statister/Sk\u00e5despelare - Man s\u00f6kes till annorlunda reklamfilm f\u00f6",
+            "brief": "Vi s\u00f6ker just nu personer som kan spela i en kortare film f\u00f6r A-kassan CA i Danmark. Du kommer att spela en man som sitter p\u00e5 en bussh\u00e5llplats och dagdr\u00f6mmer.",
+            "occupation_group": {
+                "label": "Sk\u00e5despelare",
+                "concept_id": "iBUL_s38_izZ"
+            },
+            "occupation_field": {
+                "label": "Kultur, media, design",
+                "concept_id": "9puE_nYg_crq"
+            },
+            "employer": {
+                "name": "Statist.se"
+            },
+            "workplace_addresses": [
+                {
+                    "municipality_concept_id": "",
+                    "municipality": "",
+                    "region_concept_id": "",
+                    "region": "",
+                    "country_concept_id": "Co3h_1xq_Cwb",
+                    "country": "Danmark"
+                },
+                {
+                    "municipality_concept_id": "oYPt_yRA_Smm",
+                    "municipality": "Malm\u00f6",
+                    "region_concept_id": "CaRE_1nn_cSU",
+                    "region": "Sk\u00e5ne l\u00e4n",
+                    "country_concept_id": "i46j_HmG_v64",
+                    "country": "Sverige"
+                }
+            ],
+            "publication_date": "2024-11-22T00:00:00",
+            "source_links": [
+                {
+                    "label": "ledigajobb.se",
+                    "url": "https://ledigajobb.se/jobb/bc69db/extrajobb-statister-sk%C3%A5despelare-man-s%C3%B6kes-till-annorlunda-reklamfilm-f%C3%B6"
+                }
+            ]
+        },
+        {
+            "id": "4ffd2f64096c6e7b6492ce78ecb03870",
+            "headline": "Interim Senior Accountant",
+            "brief": "Fixed Term Contract (1 Year with possibility of extension)Bambuser is a global leader in live video streaming technology, driven by a passion for innovation and transformation. Our solutions revolutionize how businesses and consumers interact, empowering global brands with cutting-edge tools for interactive eCommerce.",
+            "occupation_group": {
+                "label": "Redovisningsekonomer",
+                "concept_id": "q81z_3oD_1qu"
+            },
+            "occupation_field": {
+                "label": "Administration, ekonomi, juridik",
+                "concept_id": "X82t_awd_Qyc"
+            },
+            "employer": {
+                "name": "Bambuser AB"
+            },
+            "workplace_addresses": [
+                {
+                    "municipality_concept_id": "AvNB_uwa_6n6",
+                    "municipality": "Stockholm",
+                    "region_concept_id": "CifL_Rzy_Mku",
+                    "region": "Stockholms l\u00e4n",
+                    "country_concept_id": "i46j_HmG_v64",
+                    "country": "Sverige"
+                },
+                {
+                    "municipality_concept_id": "",
+                    "municipality": "",
+                    "region_concept_id": "",
+                    "region": "",
+                    "country_concept_id": "DBob_NQg_ayR",
+                    "country": "Japan"
+                }
+            ],
+            "publication_date": "2024-11-22T00:00:00",
+            "source_links": [
+                {
+                    "label": "arbetsformedlingen.se",
+                    "url": "https://arbetsformedlingen.se/platsbanken/annonser/29274224"
+                }
+            ]
+        },
+        {
+            "id": "f57ef914d30fde7ee3b6e4cb89147493",
+            "headline": "Jobba som online croupier p\u00e5 Malta \u2013 Sol, karri\u00e4r och livsstil i ett!",
+            "brief": "Vill du vakna upp till bl\u00e5 himmel varje dag? Malta erbjuder en sp\u00e4nnande karri\u00e4r som online croupier i en av de mest dynamiska branscherna.",
+            "occupation_group": {
+                "label": "Croupierer och oddss\u00e4ttare m.fl.",
+                "concept_id": "YHwG_fk2_MDL"
+            },
+            "occupation_field": {
+                "label": "Hotell, restaurang, storhush\u00e5ll",
+                "concept_id": "ScKy_FHB_7wT"
+            },
+            "employer": {
+                "name": "Jobs Europe AB"
+            },
+            "workplace_addresses": [
+                {
+                    "municipality_concept_id": "",
+                    "municipality": "",
+                    "region_concept_id": "",
+                    "region": "",
+                    "country_concept_id": "u8qF_qpq_R5W",
+                    "country": "Malta"
+                }
+            ],
+            "publication_date": "2024-11-22T00:00:00",
+            "source_links": [
+                {
+                    "label": "arbetsformedlingen.se",
+                    "url": "https://arbetsformedlingen.se/platsbanken/annonser/29272807"
+                }
+            ]
+        },
+        {
+            "id": "9ceb844ca82fe165a12d43029301e8db",
+            "headline": "Jobba under solen i Grekland \u2013 bli kundtj\u00e4nstproffs i paradiset!",
+            "brief": "Meet a Student \u00e4r en jobbplattform f\u00f6r juniora talanger. F\u00f6r kunds r\u00e4kning har vi publicerat denna annons, vill du komma i kontakt med den slutgiltiga arbetsgivaren kan du klicka dig vidare till annonsen:Uts\u00f6kt mat, fantastiska str\u00e4nder, hisnande bergskedjor och ett otroligt medelhavsklimat - det \u00e4r inte konstigt att grekerna \u00e4r bland de lyckligaste m\u00e4nniskorna i v\u00e4rlden.",
+            "occupation_group": {
+                "label": "Kundtj\u00e4nstpersonal",
+                "concept_id": "pwRH_MT1_8nR"
+            },
+            "occupation_field": {
+                "label": "Administration, ekonomi, juridik",
+                "concept_id": "X82t_awd_Qyc"
+            },
+            "employer": {
+                "name": "Meet a Group international AB"
+            },
+            "workplace_addresses": [
+                {
+                    "municipality_concept_id": "",
+                    "municipality": "",
+                    "region_concept_id": "",
+                    "region": "",
+                    "country_concept_id": "BRi4_in4_xLc",
+                    "country": "Grekland"
+                }
+            ],
+            "publication_date": "2024-11-22T00:00:00",
+            "source_links": [
+                {
+                    "label": "arbetsformedlingen.se",
+                    "url": "https://arbetsformedlingen.se/platsbanken/annonser/29274137"
+                }
+            ]
+        },
+        {
+            "id": "59f1d9e580748152299efbee8c1678fd",
+            "headline": "Kundservicemedarbetare till Torrevieja, Spanien",
+            "brief": "Till v\u00e5r klients kundcenter i Torrevieja s\u00f6ker vi nya medarbetare. Arbetsuppgifterna best\u00e5r av att besvara samtal fr\u00e5n v\u00e5ra Svenska kunder som beh\u00f6ver hj\u00e4lp l\u00e4ngs v\u00e4gen och p\u00e5 resande fot, d\u00e5 vi hanterar inkommande samtal via v\u00e5ra samarbetspartners inom f\u00f6rs\u00e4kring och bil.",
+            "occupation_group": {
+                "label": "Kundtj\u00e4nstpersonal",
+                "concept_id": "pwRH_MT1_8nR"
+            },
+            "occupation_field": {
+                "label": "Administration, ekonomi, juridik",
+                "concept_id": "X82t_awd_Qyc"
+            },
+            "employer": {
+                "name": "Jobs By Nordics AB"
+            },
+            "workplace_addresses": [
+                {
+                    "municipality_concept_id": "",
+                    "municipality": "",
+                    "region_concept_id": "",
+                    "region": "",
+                    "country_concept_id": "bN7k_4ka_YGQ",
+                    "country": "Spanien"
+                }
+            ],
+            "publication_date": "2024-11-22T00:00:00",
+            "source_links": [
+                {
+                    "label": "arbetsformedlingen.se",
+                    "url": "https://arbetsformedlingen.se/platsbanken/annonser/29273925"
+                }
+            ]
+        }
+    ]
+}

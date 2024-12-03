@@ -1,0 +1,349 @@
+{
+    "total": {
+        "value": 48627
+    },
+    "hits": [
+        {
+            "id": "bb8e6e50426521122fd53a0673efcda8",
+            "headline": "Electromobility specialists with innovation mindset",
+            "brief": "Who we are looking forALTEN Electromobility innovation team focus on front line development and the global transition to electrification of transportation. You should be genuinely interest in technology and green transportational solutions!",
+            "occupation_group": {
+                "label": "\u00d6vriga civilingenj\u00f6rsyrken",
+                "concept_id": "mp2Y_vyC_RFV"
+            },
+            "occupation_field": {
+                "label": "Yrken med teknisk inriktning",
+                "concept_id": "6Hq3_tKo_V57"
+            },
+            "employer": {
+                "name": "Alten"
+            },
+            "workplace_addresses": [
+                {
+                    "municipality_concept_id": "muSY_tsR_vDZ",
+                    "municipality": "Lund",
+                    "region_concept_id": "CaRE_1nn_cSU",
+                    "region": "Sk\u00e5ne l\u00e4n",
+                    "country_concept_id": "i46j_HmG_v64",
+                    "country": "Sverige"
+                },
+                {
+                    "municipality_concept_id": "kicB_LgH_2Dk",
+                    "municipality": "Skellefte\u00e5",
+                    "region_concept_id": "g5Tt_CAV_zBd",
+                    "region": "V\u00e4sterbottens l\u00e4n",
+                    "country_concept_id": "i46j_HmG_v64",
+                    "country": "Sverige"
+                }
+            ],
+            "publication_date": "2024-11-24T01:09:44",
+            "source_links": [
+                {
+                    "label": "ingenjorsjobb.se.xmlfeed",
+                    "url": "https://ingenjorsjobb.se/lediga-jobb/electromobility-specialists-with-innovation-mindset/309533"
+                },
+                {
+                    "label": "arbetsformedlingen.se",
+                    "url": "https://arbetsformedlingen.se/platsbanken/annonser/29274886"
+                }
+            ]
+        },
+        {
+            "id": "de0a1bf019a128b80d78c342d28c081b",
+            "headline": "Embedded C/ C++ Developer",
+            "brief": "ALTEN J\u00f6nk\u00f6ping s\u00f6ker ut\u00f6ka teamet med en Embedded C/C++ developer, \u00e4r du v\u00e5r n\u00e4sta kollega? Ut\u00f6ver de f\u00f6rv\u00e4ntade kunskaperna och erfarenheterna nedan, s\u00f6ker vi n\u00e5gon som \u00e4r positiv, vill utvecklas, \u00e4r driven och som levererar resultat.",
+            "occupation_group": {
+                "label": "Mjukvaru- och systemutvecklare m.fl.",
+                "concept_id": "DJh5_yyF_hEM"
+            },
+            "occupation_field": {
+                "label": "Data/IT",
+                "concept_id": "apaJ_2ja_LuF"
+            },
+            "employer": {
+                "name": "Alten"
+            },
+            "workplace_addresses": [],
+            "publication_date": "2024-11-24T01:09:44",
+            "source_links": [
+                {
+                    "label": "ingenjorsjobb.se.xmlfeed",
+                    "url": "https://ingenjorsjobb.se/lediga-jobb/embedded-c-c-developer/309534"
+                }
+            ]
+        },
+        {
+            "id": "8ac24546d53a74d89c6c73758cde1f4b",
+            "headline": "Engineers within Electromobility",
+            "brief": "Are you ready to take the next step in your career? ALTEN is looking for engineers with automotive battery experience!",
+            "occupation_group": {
+                "label": "Civilingenj\u00f6rsyrken inom elektroteknik",
+                "concept_id": "SPYW_7Z1_ShT"
+            },
+            "occupation_field": {
+                "label": "Yrken med teknisk inriktning",
+                "concept_id": "6Hq3_tKo_V57"
+            },
+            "employer": {
+                "name": "Alten"
+            },
+            "workplace_addresses": [
+                {
+                    "municipality_concept_id": "muSY_tsR_vDZ",
+                    "municipality": "Lund",
+                    "region_concept_id": "CaRE_1nn_cSU",
+                    "region": "Sk\u00e5ne l\u00e4n",
+                    "country_concept_id": "i46j_HmG_v64",
+                    "country": "Sverige"
+                },
+                {
+                    "municipality_concept_id": "kicB_LgH_2Dk",
+                    "municipality": "Skellefte\u00e5",
+                    "region_concept_id": "g5Tt_CAV_zBd",
+                    "region": "V\u00e4sterbottens l\u00e4n",
+                    "country_concept_id": "i46j_HmG_v64",
+                    "country": "Sverige"
+                }
+            ],
+            "publication_date": "2024-11-24T01:09:44",
+            "source_links": [
+                {
+                    "label": "ingenjorsjobb.se.xmlfeed",
+                    "url": "https://ingenjorsjobb.se/lediga-jobb/engineers-within-electromobility/309532"
+                },
+                {
+                    "label": "arbetsformedlingen.se",
+                    "url": "https://arbetsformedlingen.se/platsbanken/annonser/29274885"
+                }
+            ]
+        },
+        {
+            "id": "fc9364916e7e1c7aaf7c718639300b16",
+            "headline": "Full stack developer Intern (Remote)",
+            "brief": "Join the Revolution of Online Education at Coursfy!Are you a passionate aspiring Full Stack Developer looking to make a significant impact in the world of online education? Do you thrive in dynamic, innovative environments where your skills can directly shape the future of learning?",
+            "occupation_group": {
+                "label": "Mjukvaru- och systemutvecklare m.fl.",
+                "concept_id": "DJh5_yyF_hEM"
+            },
+            "occupation_field": {
+                "label": "Data/IT",
+                "concept_id": "apaJ_2ja_LuF"
+            },
+            "employer": {
+                "name": "Coursfy "
+            },
+            "workplace_addresses": [],
+            "publication_date": "2024-11-24T01:09:44",
+            "source_links": [
+                {
+                    "label": "thehub.io",
+                    "url": "https://thehub.io/jobs/6741d2de3d7e7dec7f30c636"
+                }
+            ]
+        },
+        {
+            "id": "7e8d808fd156bb1712bd8eb8031788d8",
+            "headline": "Produktionsingenj\u00f6r inom bearbetning",
+            "brief": "\u00c4r det dags f\u00f6r nya sp\u00e4nnande utmaningar? ALTEN i Sk\u00f6vde beh\u00f6ver dig som vill jobba som produktionsingenj\u00f6r inom bearbetning!",
+            "occupation_group": {
+                "label": "Ingenj\u00f6rer och tekniker inom maskinteknik",
+                "concept_id": "K8yg_U4C_gkY"
+            },
+            "occupation_field": {
+                "label": "Yrken med teknisk inriktning",
+                "concept_id": "6Hq3_tKo_V57"
+            },
+            "employer": {
+                "name": "Alten"
+            },
+            "workplace_addresses": [],
+            "publication_date": "2024-11-24T01:09:44",
+            "source_links": [
+                {
+                    "label": "ingenjorsjobb.se.xmlfeed",
+                    "url": "https://ingenjorsjobb.se/lediga-jobb/produktionsingenjor-inom-bearbetning/309535"
+                },
+                {
+                    "label": "arbetsformedlingen.se",
+                    "url": "https://arbetsformedlingen.se/platsbanken/annonser/29274479"
+                }
+            ]
+        },
+        {
+            "id": "f58fb24c1d8131c7a2570cfde42c3c1b",
+            "headline": "Projektledare och Koordinatorer mot fordonsindustrin",
+            "brief": "\u00c4r du projektledare eller koordinator och \u00e4r intresserad av att jobba inom fordonsindustrin?Vi s\u00f6ker nu f\u00f6r kommande behov projektledare, koordinatorer och drivna ingenj\u00f6rer som vill jobba mot v\u00e5ra fordonskunder med koordinering & projektledning mot produktutveckling. Vad erbjuder vi?",
+            "occupation_group": {
+                "label": "Civilingenj\u00f6rsyrken inom maskinteknik",
+                "concept_id": "PRQn_9yw_NJA"
+            },
+            "occupation_field": {
+                "label": "Yrken med teknisk inriktning",
+                "concept_id": "6Hq3_tKo_V57"
+            },
+            "employer": {
+                "name": "Alten"
+            },
+            "workplace_addresses": [],
+            "publication_date": "2024-11-24T01:09:44",
+            "source_links": [
+                {
+                    "label": "ingenjorsjobb.se.xmlfeed",
+                    "url": "https://ingenjorsjobb.se/lediga-jobb/projektledare-och-koordinatorer-mot-fordonsindustrin/309531"
+                },
+                {
+                    "label": "arbetsformedlingen.se",
+                    "url": "https://arbetsformedlingen.se/platsbanken/annonser/29274864"
+                }
+            ]
+        },
+        {
+            "id": "226df8ac81f3a617f2d3c63081a8f532",
+            "headline": "AdatoCare s\u00f6ker sjuksk\u00f6terskor  ",
+            "brief": "\u00c4r du intresserad av nytt jobb uppdrag? I skrivande stund s\u00f6ker vi dig som \u00e4r sjuksk\u00f6terska f\u00f6r uppdrag i Halmstad o Varberg har uppdrag inom bla stroke/Medicin/kir/ort/HIAOm uppdraget:Tj\u00e4nsten \u00e4r p\u00e5 visstidPeriod: Fr\u00e5n dec-febKvalifikationer:Vi s\u00f6ker dig som \u00e4r sjuksk\u00f6terska och har erfarenhet.",
+            "occupation_group": {
+                "label": "Grundutbildade sjuksk\u00f6terskor",
+                "concept_id": "Z8ci_bBE_tmx"
+            },
+            "occupation_field": {
+                "label": "H\u00e4lso- och sjukv\u00e5rd",
+                "concept_id": "NYW6_mP6_vwf"
+            },
+            "employer": {
+                "name": "AdatoCare AB"
+            },
+            "workplace_addresses": [
+                {
+                    "municipality_concept_id": "kUQB_KdK_kAh",
+                    "municipality": "Halmstad",
+                    "region_concept_id": "wjee_qH2_yb6",
+                    "region": "Hallands l\u00e4n",
+                    "country_concept_id": "i46j_HmG_v64",
+                    "country": "Sverige"
+                },
+                {
+                    "municipality_concept_id": "AkUx_yAq_kGr",
+                    "municipality": "Varberg",
+                    "region_concept_id": "wjee_qH2_yb6",
+                    "region": "Hallands l\u00e4n",
+                    "country_concept_id": "i46j_HmG_v64",
+                    "country": "Sverige"
+                }
+            ],
+            "publication_date": "2024-11-24T00:00:00",
+            "source_links": [
+                {
+                    "label": "arbetsformedlingen.se",
+                    "url": "https://arbetsformedlingen.se/platsbanken/annonser/29269168"
+                },
+                {
+                    "label": "arbetsformedlingen.se",
+                    "url": "https://arbetsformedlingen.se/platsbanken/annonser/29243971"
+                }
+            ]
+        },
+        {
+            "id": "cc4ab8abb9442d5cb222d60f1e37dfdc",
+            "headline": "Bli en del av v\u00e5rt team!",
+            "brief": "Jobbify \u00e4r en jobbplattform f\u00f6r vassa kandidater. F\u00f6r kunds r\u00e4kning har vi publicerat denna annons, vill du komma i kontakt med den slutgiltiga arbetsgivaren kan du klicka dig vidare till annonsen:V\u00e4lkommen till en v\u00e4rderingsstyrd organisationAttendo Bj\u00f6rk\u00e5sgatan, LSS i M\u00f6lndal \u00e4r en verksamhet som funnits i\u00a0tre \u00e5r.",
+            "occupation_group": {
+                "label": "V\u00e5rdare, boendest\u00f6djare",
+                "concept_id": "7pz9_eY9_D2s"
+            },
+            "occupation_field": {
+                "label": "Yrken med social inriktning",
+                "concept_id": "GazW_2TU_kJw"
+            },
+            "employer": {
+                "name": "Meet a Group international AB"
+            },
+            "workplace_addresses": [
+                {
+                    "municipality_concept_id": "",
+                    "municipality": "",
+                    "region_concept_id": "",
+                    "region": "",
+                    "country_concept_id": "i46j_HmG_v64",
+                    "country": "Sverige"
+                }
+            ],
+            "publication_date": "2024-11-24T00:00:00",
+            "source_links": [
+                {
+                    "label": "arbetsformedlingen.se",
+                    "url": "https://arbetsformedlingen.se/platsbanken/annonser/29275768"
+                },
+                {
+                    "label": "arbetsformedlingen.se",
+                    "url": "https://arbetsformedlingen.se/platsbanken/annonser/29129119"
+                }
+            ]
+        },
+        {
+            "id": "f03d25c4ffc088ecd234b590d0ebc328",
+            "headline": "Circle K G\u00e4vle Hagastr\u00f6m s\u00f6ker flexibla butikss\u00e4ljare f\u00f6r extra vid",
+            "brief": "Vart \u00e4r du p\u00e5 v\u00e4g?Nu s\u00f6ker vi butikss\u00e4ljare \u2013 ja, allts\u00e5 riktiga servicehj\u00e4ltar!Vi vill bli v\u00e4rldsb\u00e4st p\u00e5 service. Och d\u00e4rf\u00f6r s\u00f6ker vi nu fler servicehj\u00e4ltar.",
+            "occupation_group": {
+                "label": "Bensinstationspersonal",
+                "concept_id": "JnTF_wXr_6Eh"
+            },
+            "occupation_field": {
+                "label": "F\u00f6rs\u00e4ljning, ink\u00f6p, marknadsf\u00f6ring",
+                "concept_id": "RPTn_bxG_ExZ"
+            },
+            "employer": {
+                "name": "Circle K Sverige AB"
+            },
+            "workplace_addresses": [
+                {
+                    "municipality_concept_id": "qk8Y_2b6_82D",
+                    "municipality": "G\u00e4vle",
+                    "region_concept_id": "zupA_8Nt_xcD",
+                    "region": "G\u00e4vleborgs l\u00e4n",
+                    "country_concept_id": "i46j_HmG_v64",
+                    "country": "Sverige"
+                }
+            ],
+            "publication_date": "2024-11-24T00:00:00",
+            "source_links": [
+                {
+                    "label": "arbetsformedlingen.se",
+                    "url": "https://arbetsformedlingen.se/platsbanken/annonser/29275771"
+                }
+            ]
+        },
+        {
+            "id": "9b3790190c8fe237c1e44ac25f7f2fbd",
+            "headline": "Circle K Sk\u00f6ndal Nyn\u00e4sv\u00e4gen s\u00f6ker butikss\u00e4ljare p\u00e5 39%",
+            "brief": "Vart \u00e4r du p\u00e5 v\u00e4g?Nu s\u00f6ker vi butikss\u00e4ljare \u2013 ja, allts\u00e5 riktiga servicehj\u00e4ltar!Vi vill bli v\u00e4rldsb\u00e4st p\u00e5 service. Och d\u00e4rf\u00f6r s\u00f6ker vi nu fler servicehj\u00e4ltar.",
+            "occupation_group": {
+                "label": "Bensinstationspersonal",
+                "concept_id": "JnTF_wXr_6Eh"
+            },
+            "occupation_field": {
+                "label": "F\u00f6rs\u00e4ljning, ink\u00f6p, marknadsf\u00f6ring",
+                "concept_id": "RPTn_bxG_ExZ"
+            },
+            "employer": {
+                "name": "Circle K Sverige AB"
+            },
+            "workplace_addresses": [
+                {
+                    "municipality_concept_id": "AvNB_uwa_6n6",
+                    "municipality": "Stockholm",
+                    "region_concept_id": "CifL_Rzy_Mku",
+                    "region": "Stockholms l\u00e4n",
+                    "country_concept_id": "i46j_HmG_v64",
+                    "country": "Sverige"
+                }
+            ],
+            "publication_date": "2024-11-24T00:00:00",
+            "source_links": [
+                {
+                    "label": "arbetsformedlingen.se",
+                    "url": "https://arbetsformedlingen.se/platsbanken/annonser/29275750"
+                }
+            ]
+        }
+    ]
+}

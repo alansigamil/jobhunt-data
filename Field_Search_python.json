@@ -1,0 +1,335 @@
+{
+    "total": {
+        "value": 701
+    },
+    "hits": [
+        {
+            "id": "c7ca62ac7f54c44f83f5d3c4e5506eda",
+            "headline": "Python Fullstack Developer",
+            "brief": "Python Fullstack DeveloperMUST BE AUTHORIZED TO WORK IN SWEDEN. The position is located in our headquarters in central Stockholm, SwedenAre you a talented and motivated Python developer seeking a unique career opportunity in Stockholm?",
+            "occupation_group": {
+                "label": "Mjukvaru- och systemutvecklare m.fl.",
+                "concept_id": "DJh5_yyF_hEM"
+            },
+            "occupation_field": {
+                "label": "Data/IT",
+                "concept_id": "apaJ_2ja_LuF"
+            },
+            "employer": {
+                "name": "International Consumer Services Sweden AB"
+            },
+            "workplace_addresses": [
+                {
+                    "municipality_concept_id": "AvNB_uwa_6n6",
+                    "municipality": "Stockholm",
+                    "region_concept_id": "CifL_Rzy_Mku",
+                    "region": "Stockholms l\u00e4n",
+                    "country_concept_id": "i46j_HmG_v64",
+                    "country": "Sverige"
+                }
+            ],
+            "publication_date": "2024-10-21T00:00:00",
+            "source_links": [
+                {
+                    "label": "arbetsformedlingen.se",
+                    "url": "https://arbetsformedlingen.se/platsbanken/annonser/29193753"
+                }
+            ]
+        },
+        {
+            "id": "f9bb5af1505dea1a784fa4fec39db768",
+            "headline": "Python Software Developer",
+            "brief": "Are you tired of working in monotonous environments? Seeking to level up with cutting-edge technologies and top-tier enterprises?",
+            "occupation_group": {
+                "label": "Mjukvaru- och systemutvecklare m.fl.",
+                "concept_id": "DJh5_yyF_hEM"
+            },
+            "occupation_field": {
+                "label": "Data/IT",
+                "concept_id": "apaJ_2ja_LuF"
+            },
+            "employer": {
+                "name": "SwedQ AB"
+            },
+            "workplace_addresses": [
+                {
+                    "municipality_concept_id": "AvNB_uwa_6n6",
+                    "municipality": "Stockholm",
+                    "region_concept_id": "CifL_Rzy_Mku",
+                    "region": "Stockholms l\u00e4n",
+                    "country_concept_id": "i46j_HmG_v64",
+                    "country": "Sverige"
+                }
+            ],
+            "publication_date": "2024-07-03T00:00:00",
+            "source_links": [
+                {
+                    "label": "arbetsformedlingen.se",
+                    "url": "https://arbetsformedlingen.se/platsbanken/annonser/28942825"
+                }
+            ]
+        },
+        {
+            "id": "2ce95dbc8a8345170d24c06c231fce76",
+            "headline": "Senior Systemutvecklare- python, aws",
+            "brief": "S\u00f6ker vi en Senior Systemutvecklare (python, AWS)Vi s\u00f6ker dig som har god erfarenhet av CI/CD, versionshantering och -konfiguration av Pythonbibliotek. Du har under flera \u00e5r fr\u00e4mst arbetet med utveckling i Python.",
+            "occupation_group": {
+                "label": "Mjukvaru- och systemutvecklare m.fl.",
+                "concept_id": "DJh5_yyF_hEM"
+            },
+            "occupation_field": {
+                "label": "Data/IT",
+                "concept_id": "apaJ_2ja_LuF"
+            },
+            "employer": {
+                "name": "Leoware Sverige AB"
+            },
+            "workplace_addresses": [
+                {
+                    "municipality_concept_id": "AvNB_uwa_6n6",
+                    "municipality": "Stockholm",
+                    "region_concept_id": "CifL_Rzy_Mku",
+                    "region": "Stockholms l\u00e4n",
+                    "country_concept_id": "i46j_HmG_v64",
+                    "country": "Sverige"
+                }
+            ],
+            "publication_date": "2024-11-20T00:00:00",
+            "source_links": [
+                {
+                    "label": "arbetsformedlingen.se",
+                    "url": "https://arbetsformedlingen.se/platsbanken/annonser/29268205"
+                }
+            ]
+        },
+        {
+            "id": "81ac206dc70a7fc8762450c0dc430573",
+            "headline": "C++ / Python Developer",
+            "brief": "Flightradar24 is looking for an experienced, well-rounded developer with both C++ and Python experience to expand our team in Stockholm, Sweden. You will play an important role in building and improving our back-end systems, processing very high volumes of aviation data like flight positions each day.",
+            "occupation_group": {
+                "label": "Mjukvaru- och systemutvecklare m.fl.",
+                "concept_id": "DJh5_yyF_hEM"
+            },
+            "occupation_field": {
+                "label": "Data/IT",
+                "concept_id": "apaJ_2ja_LuF"
+            },
+            "employer": {
+                "name": "Flightradar24 AB"
+            },
+            "workplace_addresses": [
+                {
+                    "municipality_concept_id": "AvNB_uwa_6n6",
+                    "municipality": "Stockholm",
+                    "region_concept_id": "CifL_Rzy_Mku",
+                    "region": "Stockholms l\u00e4n",
+                    "country_concept_id": "i46j_HmG_v64",
+                    "country": "Sverige"
+                }
+            ],
+            "publication_date": "2024-10-28T00:00:00",
+            "source_links": [
+                {
+                    "label": "arbetsformedlingen.se",
+                    "url": "https://arbetsformedlingen.se/platsbanken/annonser/29212701"
+                }
+            ]
+        },
+        {
+            "id": "2afde82fc230077d56461954e8510bed",
+            "headline": "Python Developer - LiveArena Technologies",
+            "brief": "LiveArena Technologies is looking to hire an experienced Python backend engineer to work on their video meeting and broadcasting tool in collaboration with Microsoft. This product is a fully automated solution that enables anyone to create compelling video streaming & audio content, optimizing & enhancing the capability of Microsoft Teams, LinkedIn live, YouTube broadcasting and beyond, through the use of AI to create professional-grade content, easier than ever before!",
+            "occupation_group": {
+                "label": "Mjukvaru- och systemutvecklare m.fl.",
+                "concept_id": "DJh5_yyF_hEM"
+            },
+            "occupation_field": {
+                "label": "Data/IT",
+                "concept_id": "apaJ_2ja_LuF"
+            },
+            "employer": {
+                "name": "LiveArena Technologies AB"
+            },
+            "workplace_addresses": [
+                {
+                    "municipality_concept_id": "onpA_B5a_zfv",
+                    "municipality": "T\u00e4by",
+                    "region_concept_id": "CifL_Rzy_Mku",
+                    "region": "Stockholms l\u00e4n",
+                    "country_concept_id": "i46j_HmG_v64",
+                    "country": "Sverige"
+                },
+                {
+                    "municipality_concept_id": "AvNB_uwa_6n6",
+                    "municipality": "Stockholm",
+                    "region_concept_id": "CifL_Rzy_Mku",
+                    "region": "Stockholms l\u00e4n",
+                    "country_concept_id": "i46j_HmG_v64",
+                    "country": "Sverige"
+                }
+            ],
+            "publication_date": "2024-11-13T00:00:00",
+            "source_links": [
+                {
+                    "label": "arbetsformedlingen.se",
+                    "url": "https://arbetsformedlingen.se/platsbanken/annonser/29248798"
+                }
+            ]
+        },
+        {
+            "id": "08a607f2f7d7d1c754a23dc5d5ba7c4e",
+            "headline": "Mjukvaruutvecklare / C++ / Python",
+            "brief": "Om tj\u00e4nstenP\u00e5 Combine befinner vi oss i en viktig tillv\u00e4xtfas och s\u00f6ker nu erfarna och seniora utvecklare till v\u00e5rt kontor i Link\u00f6ping. Den \u00f6kande efterfr\u00e5gan fr\u00e5n b\u00e5de kunder och partners driver v\u00e5r expansion.",
+            "occupation_group": {
+                "label": "Mjukvaru- och systemutvecklare m.fl.",
+                "concept_id": "DJh5_yyF_hEM"
+            },
+            "occupation_field": {
+                "label": "Data/IT",
+                "concept_id": "apaJ_2ja_LuF"
+            },
+            "employer": {
+                "name": "Combine Control Systems AB"
+            },
+            "workplace_addresses": [
+                {
+                    "municipality_concept_id": "bm2x_1mr_Qhx",
+                    "municipality": "Link\u00f6ping",
+                    "region_concept_id": "oLT3_Q9p_3nn",
+                    "region": "\u00d6sterg\u00f6tlands l\u00e4n",
+                    "country_concept_id": "i46j_HmG_v64",
+                    "country": "Sverige"
+                }
+            ],
+            "publication_date": "2024-06-19T00:00:00",
+            "source_links": [
+                {
+                    "label": "arbetsformedlingen.se",
+                    "url": "https://arbetsformedlingen.se/platsbanken/annonser/28907455"
+                }
+            ]
+        },
+        {
+            "id": "46eea55942f3a347ee91949a5c624683",
+            "headline": "Automotive SW Developer: Python & CI",
+            "brief": "Join our dynamic team at ALTEN Gothenburg, Sweden, where we collaborate with leading automotive manufacturers on cutting-edge research and development projects. We're excited to expand our team of automotive software test engineers and invite passionate individuals like you to join us!",
+            "occupation_group": {
+                "label": "Mjukvaru- och systemutvecklare m.fl.",
+                "concept_id": "DJh5_yyF_hEM"
+            },
+            "occupation_field": {
+                "label": "Data/IT",
+                "concept_id": "apaJ_2ja_LuF"
+            },
+            "employer": {
+                "name": "Alten"
+            },
+            "workplace_addresses": [
+                {
+                    "municipality_concept_id": "muSY_tsR_vDZ",
+                    "municipality": "Lund",
+                    "region_concept_id": "CaRE_1nn_cSU",
+                    "region": "Sk\u00e5ne l\u00e4n",
+                    "country_concept_id": "i46j_HmG_v64",
+                    "country": "Sverige"
+                },
+                {
+                    "municipality_concept_id": "kicB_LgH_2Dk",
+                    "municipality": "Skellefte\u00e5",
+                    "region_concept_id": "g5Tt_CAV_zBd",
+                    "region": "V\u00e4sterbottens l\u00e4n",
+                    "country_concept_id": "i46j_HmG_v64",
+                    "country": "Sverige"
+                }
+            ],
+            "publication_date": "2024-11-03T01:08:43",
+            "source_links": [
+                {
+                    "label": "ingenjorsjobb.se.xmlfeed",
+                    "url": "https://ingenjorsjobb.se/lediga-jobb/automotive-sw-developer-python-ci/306750"
+                }
+            ]
+        },
+        {
+            "id": "1a5b095f4ed14df4c30393519eeeaeb2",
+            "headline": "Senior Mjukvaruutvecklare C++, Python & Machine Learning",
+            "brief": "Aveer \u00e4r en IT-konsultfirma som fokuserar p\u00e5 att tillhandah\u00e5lla h\u00f6gkvalitativa konsulttj\u00e4nster inom IT- och aff\u00e4rsl\u00f6sningar till v\u00e5ra klienter. Vi tror p\u00e5 att skapa en stimulerande arbetsmilj\u00f6 d\u00e4r v\u00e5ra medarbetare kan utvecklas och trivas samtidigt som de f\u00e5r m\u00f6jlighet att arbeta p\u00e5 sp\u00e4nnande projekt och utmaningar.",
+            "occupation_group": {
+                "label": "Mjukvaru- och systemutvecklare m.fl.",
+                "concept_id": "DJh5_yyF_hEM"
+            },
+            "occupation_field": {
+                "label": "Data/IT",
+                "concept_id": "apaJ_2ja_LuF"
+            },
+            "employer": {
+                "name": "Ecareer AB"
+            },
+            "workplace_addresses": [],
+            "publication_date": "2024-11-06T00:00:00",
+            "source_links": [
+                {
+                    "label": "arbetsformedlingen.se",
+                    "url": "https://arbetsformedlingen.se/platsbanken/annonser/29234023"
+                }
+            ]
+        },
+        {
+            "id": "97d8c3fc63958f2921c7772c37596ccb",
+            "headline": "Software Tester with Linux and Python Experience",
+            "brief": "Do you have what it takes to thrive in the vibrant world of IT consulting? VIPAS AB, a burgeoning company, proudly invites you to embark on your next engaging project as ourAbout VIPAS :Imagine a world where your business technology perfectly aligns with your goals\u2014efficient, scalable, and innovative.",
+            "occupation_group": {
+                "label": "Systemtestare och testledare",
+                "concept_id": "D9SL_mtn_vGM"
+            },
+            "occupation_field": {
+                "label": "Data/IT",
+                "concept_id": "apaJ_2ja_LuF"
+            },
+            "employer": {
+                "name": "VIPAS AB"
+            },
+            "workplace_addresses": [
+                {
+                    "municipality_concept_id": "bm2x_1mr_Qhx",
+                    "municipality": "Link\u00f6ping",
+                    "region_concept_id": "oLT3_Q9p_3nn",
+                    "region": "\u00d6sterg\u00f6tlands l\u00e4n",
+                    "country_concept_id": "i46j_HmG_v64",
+                    "country": "Sverige"
+                }
+            ],
+            "publication_date": "2024-09-26T00:00:00",
+            "source_links": [
+                {
+                    "label": "arbetsformedlingen.se",
+                    "url": "https://arbetsformedlingen.se/platsbanken/annonser/29132695"
+                }
+            ]
+        },
+        {
+            "id": "353e75a718229c5f391d995435cb384b",
+            "headline": "\u00c4lskar du Python & Django? Ans\u00f6k via SSH!",
+            "brief": "Vill du jobba med Python och Django? \u00c4lskar du open source?",
+            "occupation_group": {
+                "label": "Mjukvaru- och systemutvecklare m.fl.",
+                "concept_id": "DJh5_yyF_hEM"
+            },
+            "occupation_field": {
+                "label": "Data/IT",
+                "concept_id": "apaJ_2ja_LuF"
+            },
+            "employer": {
+                "name": "5 Monkeys Agency AB"
+            },
+            "workplace_addresses": [],
+            "publication_date": "2024-11-22T00:00:00",
+            "source_links": [
+                {
+                    "label": "arbetsformedlingen.se",
+                    "url": "https://arbetsformedlingen.se/platsbanken/annonser/29273310"
+                }
+            ]
+        }
+    ]
+}

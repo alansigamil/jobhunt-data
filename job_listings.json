@@ -1,0 +1,337 @@
+{
+    "total": {
+        "value": 18
+    },
+    "hits": [
+        {
+            "id": "320df311bc1ae58870c360921138dc2c",
+            "headline": "Arbetsledare Flen",
+            "brief": "Att bygga och sk\u00f6ta om v\u00e4gar och infrastruktur \u00e4r stort. Att bidra till samh\u00e4llsutvecklingen \u00e4r \u00e4nnu st\u00f6rre.",
+            "occupation_group": {
+                "label": "Arbetsledare inom bygg, anl\u00e4ggning och gruva",
+                "concept_id": "w6ud_quG_dgh"
+            },
+            "occupation_field": {
+                "label": "Bygg och anl\u00e4ggning",
+                "concept_id": "j7Cq_ZJe_GkT"
+            },
+            "employer": {
+                "name": "Svevia AB (publ)"
+            },
+            "workplace_addresses": [
+                {
+                    "municipality_concept_id": "P8yp_WT9_Bks",
+                    "municipality": "Flen",
+                    "region_concept_id": "s93u_BEb_sx2",
+                    "region": "S\u00f6dermanlands l\u00e4n",
+                    "country_concept_id": "i46j_HmG_v64",
+                    "country": "Sverige"
+                }
+            ],
+            "publication_date": "2024-10-29T00:00:00",
+            "source_links": [
+                {
+                    "label": "arbetsformedlingen.se",
+                    "url": "https://arbetsformedlingen.se/platsbanken/annonser/29215154"
+                }
+            ]
+        },
+        {
+            "id": "c4179ae5780f8b1dfd8077d21b4edb30",
+            "headline": "K\u00f6ksbitr\u00e4de Flen",
+            "brief": "Dina arbetsuppgifterSom k\u00f6ksbitr\u00e4de p\u00e5 Trofo Invest & Trading Company AB kommer du att arbeta med mathantering, servering och st\u00e4dning. Tunga lyft kan f\u00f6rekomma.",
+            "occupation_group": {
+                "label": "Restaurang- och k\u00f6ksbitr\u00e4den m.fl.",
+                "concept_id": "tPox_ie4_X9X"
+            },
+            "occupation_field": {
+                "label": "Hotell, restaurang, storhush\u00e5ll",
+                "concept_id": "ScKy_FHB_7wT"
+            },
+            "employer": {
+                "name": "Trofo Invest & Trading Company AB"
+            },
+            "workplace_addresses": [
+                {
+                    "municipality_concept_id": "P8yp_WT9_Bks",
+                    "municipality": "Flen",
+                    "region_concept_id": "s93u_BEb_sx2",
+                    "region": "S\u00f6dermanlands l\u00e4n",
+                    "country_concept_id": "i46j_HmG_v64",
+                    "country": "Sverige"
+                }
+            ],
+            "publication_date": "2024-10-21T00:00:00",
+            "source_links": [
+                {
+                    "label": "arbetsformedlingen.se",
+                    "url": "https://arbetsformedlingen.se/platsbanken/annonser/29195238"
+                }
+            ]
+        },
+        {
+            "id": "b42bc6102f768865144032f133aa6c88",
+            "headline": "Takmont\u00f6rer till Flen",
+            "brief": "Om jobbetVi s\u00f6ker bra och starka takmont\u00f6rer till v\u00e5r dep\u00e5 i Flen. Som takmont\u00f6r jobbar man h\u00e5rt men f\u00f6rtj\u00e4nstm\u00f6jligheterna \u00e4r stora.",
+            "occupation_group": {
+                "label": "Takmont\u00f6rer",
+                "concept_id": "3g5x_Tm7_8QH"
+            },
+            "occupation_field": {
+                "label": "Bygg och anl\u00e4ggning",
+                "concept_id": "j7Cq_ZJe_GkT"
+            },
+            "employer": {
+                "name": "Vesivek Sverige AB"
+            },
+            "workplace_addresses": [
+                {
+                    "municipality_concept_id": "P8yp_WT9_Bks",
+                    "municipality": "Flen",
+                    "region_concept_id": "s93u_BEb_sx2",
+                    "region": "S\u00f6dermanlands l\u00e4n",
+                    "country_concept_id": "i46j_HmG_v64",
+                    "country": "Sverige"
+                }
+            ],
+            "publication_date": "2024-11-12T00:00:00",
+            "source_links": [
+                {
+                    "label": "arbetsformedlingen.se",
+                    "url": "https://arbetsformedlingen.se/platsbanken/annonser/29248787"
+                }
+            ]
+        },
+        {
+            "id": "7037ab7ba2e109e63835ea3035247175",
+            "headline": "Sjuksk\u00f6terska f\u00f6r vaccination - Flen",
+            "brief": "Vi p\u00e5 Vaccinova s\u00f6ker nu engagerade och ut\u00e5triktade sjuksk\u00f6terskor f\u00f6r arbete med vaccination p\u00e5 timmar till v\u00e5r mottagning i Flen. Tj\u00e4nsten omfattar fr\u00e5n 4 timmars arbete en dag i veckan p\u00e5 ett kontinuerligt schema.",
+            "occupation_group": {
+                "label": "Grundutbildade sjuksk\u00f6terskor",
+                "concept_id": "Z8ci_bBE_tmx"
+            },
+            "occupation_field": {
+                "label": "H\u00e4lso- och sjukv\u00e5rd",
+                "concept_id": "NYW6_mP6_vwf"
+            },
+            "employer": {
+                "name": "Vaccinova AB"
+            },
+            "workplace_addresses": [
+                {
+                    "municipality_concept_id": "P8yp_WT9_Bks",
+                    "municipality": "Flen",
+                    "region_concept_id": "s93u_BEb_sx2",
+                    "region": "S\u00f6dermanlands l\u00e4n",
+                    "country_concept_id": "i46j_HmG_v64",
+                    "country": "Sverige"
+                }
+            ],
+            "publication_date": "2024-11-20T00:00:00",
+            "source_links": [
+                {
+                    "label": "arbetsformedlingen.se",
+                    "url": "https://arbetsformedlingen.se/platsbanken/annonser/29267725"
+                }
+            ]
+        },
+        {
+            "id": "4b4d0b348e44f1c283a3fa869012b5ae",
+            "headline": "Timvikarie till servicebostad i Flen",
+            "brief": "St\u00f6dassistentOm f\u00f6retagetJobbex Omsorg \u00e4r ett familje\u00e4gt v\u00e5rd- och omsorgsf\u00f6retag inom LSS. Vi bedriver idag gruppbostad, servicebostad och egen daglig verksamhet i Katrineholm, Flen och Ving\u00e5kers kommun.",
+            "occupation_group": {
+                "label": "V\u00e5rdare, boendest\u00f6djare",
+                "concept_id": "7pz9_eY9_D2s"
+            },
+            "occupation_field": {
+                "label": "Yrken med social inriktning",
+                "concept_id": "GazW_2TU_kJw"
+            },
+            "employer": {
+                "name": "Jobbex Omsorg AB"
+            },
+            "workplace_addresses": [
+                {
+                    "municipality_concept_id": "P8yp_WT9_Bks",
+                    "municipality": "Flen",
+                    "region_concept_id": "s93u_BEb_sx2",
+                    "region": "S\u00f6dermanlands l\u00e4n",
+                    "country_concept_id": "i46j_HmG_v64",
+                    "country": "Sverige"
+                }
+            ],
+            "publication_date": "2024-11-12T00:00:00",
+            "source_links": [
+                {
+                    "label": "arbetsformedlingen.se",
+                    "url": "https://arbetsformedlingen.se/platsbanken/annonser/29248428"
+                }
+            ]
+        },
+        {
+            "id": "14beffb0b5047e992fdbca02047690ce",
+            "headline": "Undersk\u00f6terskor till nattpatrullen i Flen",
+            "brief": "Nu bygger vi upp ett helt nytt team till nattpatrullen! Vi s\u00f6ker 11 personer som har god f\u00f6rm\u00e5ga och vilja att p\u00e5 ett professionellt och godhj\u00e4rtat s\u00e4tt tillgodose v\u00e5ra \u00e4ldres behov av v\u00e5rd och st\u00f6d nattetid.",
+            "occupation_group": {
+                "label": "Undersk\u00f6terskor, hemtj\u00e4nst, hemsjukv\u00e5rd, \u00e4ldreboende och habilitering",
+                "concept_id": "jY19_knH_MJp"
+            },
+            "occupation_field": {
+                "label": "H\u00e4lso- och sjukv\u00e5rd",
+                "concept_id": "NYW6_mP6_vwf"
+            },
+            "employer": {
+                "name": "Flens kommun"
+            },
+            "workplace_addresses": [
+                {
+                    "municipality_concept_id": "P8yp_WT9_Bks",
+                    "municipality": "Flen",
+                    "region_concept_id": "s93u_BEb_sx2",
+                    "region": "S\u00f6dermanlands l\u00e4n",
+                    "country_concept_id": "i46j_HmG_v64",
+                    "country": "Sverige"
+                }
+            ],
+            "publication_date": "2024-11-08T00:00:00",
+            "source_links": [
+                {
+                    "label": "arbetsformedlingen.se",
+                    "url": "https://arbetsformedlingen.se/platsbanken/annonser/29238573"
+                }
+            ]
+        },
+        {
+            "id": "6ab0c85f4cfe663de35347d2613c9aa5",
+            "headline": "Industrielektriker till Unilever i Flen",
+            "brief": "Om KundenUnilever \u00e4r ett globalt f\u00f6retag som k\u00e4nnetecknas av pionj\u00e4randa, innovation och tillverkning i mer \u00e4n 120 l\u00e4nder. V\u00e5r framg\u00e5ng inneb\u00e4r att 2,5 miljarder m\u00e4nniskor anv\u00e4nder v\u00e5ra produkter f\u00f6r att f\u00e5 dem att m\u00e5 bra, se bra ut och f\u00e5 ut mer av livet.",
+            "occupation_group": {
+                "label": "Industrielektriker",
+                "concept_id": "a75S_eLg_JWH"
+            },
+            "occupation_field": {
+                "label": "Installation, drift, underh\u00e5ll",
+                "concept_id": "yhCP_AqT_tns"
+            },
+            "employer": {
+                "name": "A-Staffing Sweden AB"
+            },
+            "workplace_addresses": [
+                {
+                    "municipality_concept_id": "P8yp_WT9_Bks",
+                    "municipality": "Flen",
+                    "region_concept_id": "s93u_BEb_sx2",
+                    "region": "S\u00f6dermanlands l\u00e4n",
+                    "country_concept_id": "i46j_HmG_v64",
+                    "country": "Sverige"
+                }
+            ],
+            "publication_date": "2024-11-05T00:00:00",
+            "source_links": [
+                {
+                    "label": "arbetsformedlingen.se",
+                    "url": "https://arbetsformedlingen.se/platsbanken/annonser/29229916"
+                }
+            ]
+        },
+        {
+            "id": "ff02bd3a55f7ab6e4624d85bfc2c1b7b",
+            "headline": "Svetsl\u00e4rare till Kunskapscompaniet vuxenutbildning i Flen",
+            "brief": "Ditt uppdragSom yrkesl\u00e4rare p\u00e5 Kunskapscompaniet ansvarar du f\u00f6r hela undervisningen inom programmet tillsammans med dina kollegor. Du planerar, f\u00f6rbereder och genomf\u00f6r lektioner i enlighet med de anvisningar och g\u00e4llande regelverk som finns inom Skolverkets kursplaner, samt v\u00e5ra interna riktlinjer och policys.",
+            "occupation_group": {
+                "label": "L\u00e4rare i yrkes\u00e4mnen",
+                "concept_id": "2x2V_UeL_6ke"
+            },
+            "occupation_field": {
+                "label": "Pedagogik",
+                "concept_id": "MVqp_eS8_kDZ"
+            },
+            "employer": {
+                "name": "Watma Education AB"
+            },
+            "workplace_addresses": [
+                {
+                    "municipality_concept_id": "P8yp_WT9_Bks",
+                    "municipality": "Flen",
+                    "region_concept_id": "s93u_BEb_sx2",
+                    "region": "S\u00f6dermanlands l\u00e4n",
+                    "country_concept_id": "i46j_HmG_v64",
+                    "country": "Sverige"
+                }
+            ],
+            "publication_date": "2024-11-19T00:00:00",
+            "source_links": [
+                {
+                    "label": "arbetsformedlingen.se",
+                    "url": "https://arbetsformedlingen.se/platsbanken/annonser/29263736"
+                }
+            ]
+        },
+        {
+            "id": "7cc0a6be0b639520dfee7f3035eac7dd",
+            "headline": "S\u00e4ljare TAK till Vesivek i Flen",
+            "brief": "Vill du vara med p\u00e5 en riktigt rolig och sp\u00e4nnande resa? \u00c4r du en drivande och engagerad stj\u00e4rna inom f\u00f6rs\u00e4ljning?",
+            "occupation_group": {
+                "label": "F\u00f6retagss\u00e4ljare",
+                "concept_id": "oXSW_fbY_XrY"
+            },
+            "occupation_field": {
+                "label": "F\u00f6rs\u00e4ljning, ink\u00f6p, marknadsf\u00f6ring",
+                "concept_id": "RPTn_bxG_ExZ"
+            },
+            "employer": {
+                "name": "Rubino Rekrytering AB"
+            },
+            "workplace_addresses": [
+                {
+                    "municipality_concept_id": "P8yp_WT9_Bks",
+                    "municipality": "Flen",
+                    "region_concept_id": "s93u_BEb_sx2",
+                    "region": "S\u00f6dermanlands l\u00e4n",
+                    "country_concept_id": "i46j_HmG_v64",
+                    "country": "Sverige"
+                }
+            ],
+            "publication_date": "2024-10-21T00:00:00",
+            "source_links": [
+                {
+                    "label": "arbetsformedlingen.se",
+                    "url": "https://arbetsformedlingen.se/platsbanken/annonser/29193892"
+                }
+            ]
+        },
+        {
+            "id": "1fa5691c44da915c0b96400ae7c0957a",
+            "headline": "Erfaren Produktionstekniker till Malmk\u00f6pings Mekaniska Werkstad i Flen",
+            "brief": "\u00c4r du redo att ta ditt n\u00e4sta kliv i din karri\u00e4r? D\u00e5 kanske denna tj\u00e4nst som \u00e4r en rekrytering \u00e4r n\u00e5got f\u00f6r dig!\u00c4r du en l\u00f6sningsfokuserad produktionstekniker med ett starkt intresse f\u00f6r optimering, probleml\u00f6sning och teknisk utveckling inom produktion?",
+            "occupation_group": {
+                "label": "Ingenj\u00f6rer och tekniker inom maskinteknik",
+                "concept_id": "K8yg_U4C_gkY"
+            },
+            "occupation_field": {
+                "label": "Yrken med teknisk inriktning",
+                "concept_id": "6Hq3_tKo_V57"
+            },
+            "employer": {
+                "name": "Addilon Professionals AB"
+            },
+            "workplace_addresses": [
+                {
+                    "municipality_concept_id": "P8yp_WT9_Bks",
+                    "municipality": "Flen",
+                    "region_concept_id": "s93u_BEb_sx2",
+                    "region": "S\u00f6dermanlands l\u00e4n",
+                    "country_concept_id": "i46j_HmG_v64",
+                    "country": "Sverige"
+                }
+            ],
+            "publication_date": "2024-11-20T00:00:00",
+            "source_links": [
+                {
+                    "label": "arbetsformedlingen.se",
+                    "url": "https://arbetsformedlingen.se/platsbanken/annonser/29266805"
+                }
+            ]
+        }
+    ]
+}
